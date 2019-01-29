@@ -1,34 +1,26 @@
-# Assignment: One HTML and CSS
 
-For this assignment, you will clone Dr. John Monberg's wra410 repository.
-
-You will update your README.md file so that I can learn about the changes you made.
-
-If I can't find your changes, I can't give you credit for them
-
-Revise the following section in your README.md file with a short description of what you've accomplished.
 
 ## Required Changes to WRA 410
 
-1. Make changes to the background color of a page and a div.
+1. Make changes to the background color of a page and a div.<br>
+- For this requirement I changed the Resources html page, I changed the background color, switched the font to a google font and I made changes to the nav bar so it would be white until it hits the footer.
 
 2. Use a new font.
+- I used a google font for the text on the Resources html page.
 
 3. Include two images.
+- I included the sublime and atom logos on the Resources html page.
 
 4. Use a table to format the Grading Scale on the Assignments page.
+- I created a basic table comparing GPA to possible points.
 
 5. Reformat the Student Groups. Use a different color for links, add a title for each group, seperate each student. Use multiple columns for the divs.  
+- I created a grid fro the student groups, changed the link colors to white and added the correct titles.
 
 6. Add navgation to the Schedule webpage.
+- I created a nav bar underneath the header.
 
 7. Revise the rows and columns on the Schedule webpage so the information is clearer or prettier.
+- I wanted the middle column to be centered right under the nav bar so everything looked like it was in place and symmetric. I changed the columns to be set up as a 30% 40% 30%.
 
 
-## Grading Criteria
-
-* 100-90 points: You accomplish all of the required changes and you include some new html/css commands and/or your design does an especially good job of meeting the needs of your audience (students in this course). 
-
-* 89-80 points: You accomplish all of the required changes.
-
-* 79-70 points: You don't accomplish all of the required changes
